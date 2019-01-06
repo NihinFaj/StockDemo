@@ -1,5 +1,6 @@
 BlueJ project "products".
 Authors:  David J. Barnes and Michael Kölling
+Refactored by: Nihinlolamiwa Fajemilehin
 
 This project is supplementary material for the book
 
